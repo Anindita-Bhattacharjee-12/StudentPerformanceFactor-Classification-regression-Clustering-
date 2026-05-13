@@ -1,0 +1,1 @@
+This project performed classification, clustering and regression of student performance in academic life. It finds the correlation between features, find the target label of student performance and perfoem PCA before clustering.
